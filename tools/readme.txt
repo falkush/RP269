@@ -1,0 +1,1 @@
+Code for finding primitive matrices, do statistics, produce pictures for pdf, produce matrix files for Diffie-Hellman
