@@ -1,5 +1,5 @@
 # RP269
-Crypto system based on random matrices.
+Crypto system based on random matrices over Z/2Z.
 
 # Why 269?
 
