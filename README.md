@@ -1,5 +1,5 @@
 # RP269
-Crypto system based on random matrices over Z/2Z.
+Crypto system based on random matrices of dimension 269 over Z/2Z.
 
 # Why 269?
 
